@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/venci0003/count.svg" />
 </p>

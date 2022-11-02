@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/venci0003/count.svg" />
+</p>
+
 <!--
 **venci0003/venci0003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 ### Hi there 👋
-- My name is Ventsislav
+- My name is Ventsislav and this is my profile!
 
 <p align="left"> 
   Visitor count<br>

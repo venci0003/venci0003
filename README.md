@@ -6,9 +6,9 @@
   <img src="https://profile-counter.glitch.me/venci0003/count.svg" />
 </p>
 
-![Ventsislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=venci0003&count_private=true&theme=tokyonight&hide=prs,contribs,issues)
+![Ventsislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=venci0003&count_private=true&theme=rose_pine&hide=prs,contribs,issues)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venci0003&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venci0003&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **venci0003/venci0003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,6 @@
 ### Hi there 👋
 - My name is Ventsislav and this is my profile!
+### What Im studying
 - Currently learning JS-FrontEnd
 
 <p align="left"> 

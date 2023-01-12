@@ -1,5 +1,6 @@
 ### Hi there 👋
 - My name is Ventsislav and this is my profile!
+- Currently learning JS-FrontEnd
 
 <p align="left"> 
   Visitor count<br>

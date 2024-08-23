@@ -1,7 +1,7 @@
 ### Hi there 👋
 - My name is Ventsislav and this is my profile!
 ### What Im studying
-- Currently learning ASP.NET MVC
+- Currently learning .NET Maui
 
 ### Front-End Development
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
